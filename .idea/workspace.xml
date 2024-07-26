@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="798dbb35-3c2d-4321-b68f-04a6be8671bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/auction_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
