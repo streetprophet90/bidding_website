@@ -1,7 +1,8 @@
+
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ahajah Creo Bidding Website</title>
+    <title>Ahajah Creo's Bidding Site</title>
 </head>
 <body>
     <h1>Auctions</h1>
@@ -10,5 +11,6 @@
         <li><a href="{% url 'auction_detail' auction.id %}">{{ auction.title }}</a></li>
         {% endfor %}
     </ul>
+    <p><a href="{% url 'create_auction' %}">Create New Auction</a></p>
 </body>
 </html>

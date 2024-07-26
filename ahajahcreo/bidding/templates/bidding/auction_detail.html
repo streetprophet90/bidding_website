@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+<!-- bidding/templates/bidding/auction_detail.html --><!DOCTYPE html>
 <html>
 <head>
     <title>{{ auction.title }}</title>
@@ -9,5 +8,23 @@
     <p>{{ auction.description }}</p>
     <p>Starting Bid: {{ auction.starting_bid }}</p>
     <p>Current Bid: {{ auction.current_bid }}</p>
+
+    {% if user.is_authenticated %}
+    <h2>Place a Bid</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Place Bid</button>
+    </form>
+    {% else %}
+    <p><a href="{% url 'login' %}">Login to place a bid</a></p>
+    {% endif %}
+
+    <h2>Bid History</h2>
+    <ul>
+        {% for bid in auction.bid_set.all %}
+        <li>{{ bid.bidder.username }}: {{ bid.bid_amount }}</li>
+        {% endfor %}
+    </ul>
 </body>
 </html>

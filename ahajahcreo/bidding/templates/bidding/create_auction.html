@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Auction</title>
+</head>
+<body>
+    <h1>Create Auction</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Create Auction</button>
+    </form>
+    <p><a href="{% url 'index' %}">Back to Auctions</a></p>
+</body>
+</html>
+
+
