@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="798dbb35-3c2d-4321-b68f-04a6be8671bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/auction_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.manage.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
