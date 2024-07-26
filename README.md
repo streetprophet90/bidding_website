@@ -28,4 +28,4 @@ This is a bidding website built using Django. Users can create auctions, place b
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/bidding-website.git
-   cd bidding-website
+   cd biddingwebsite
