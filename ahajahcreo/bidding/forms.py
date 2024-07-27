@@ -1,7 +1,7 @@
 
 from django import forms
-from .models import Auction
-from .models import Bid
+from .models import Auction, Bid
+
 
 class AuctionForm(forms.ModelForm):
     class Meta:

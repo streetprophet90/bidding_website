@@ -1,10 +1,9 @@
-# bidding/views.py
-
 from django.shortcuts import render, get_object_or_404, redirect
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.forms import UserCreationForm
 from .models import Auction, Bid
 from .forms import AuctionForm, BidForm
+
 
 # Home view
 def home(request):
@@ -16,7 +15,7 @@ def register(request):
         form = UserCreationForm(request.POST)
         if form.is_valid():
             form.save()
-            return redirect('login')
+            return redirect('login')  # Redirect to the login page after successful registration
     else:
         form = UserCreationForm()
     return render(request, 'bidding/register.html', {'form': form})

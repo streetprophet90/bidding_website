@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="798dbb35-3c2d-4321-b68f-04a6be8671bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/create_auction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/registration/logged_out.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahajahcreo/backup.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/auction_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/auction_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/views.py" afterDir="false" />
@@ -34,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2jnGiZUynu0Id5nl8uO9NJhtryp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.manage.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
