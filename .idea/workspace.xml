@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="798dbb35-3c2d-4321-b68f-04a6be8671bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ahajahcreo/backup.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/ahajahcreo/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/auction_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/auction_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/base.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/bidding/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/bidding/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/bidding/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahajahcreo/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ahajahcreo/db.sqlite3" afterDir="false" />
     </list>
@@ -50,6 +56,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cosmopolitan TV\PycharmProjects\biddingwebsite\ahajahcreo\bidding\templates" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
