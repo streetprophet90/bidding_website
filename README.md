@@ -29,3 +29,41 @@ This is a bidding website built using Django. Users can create auctions, place b
    ```bash
    git clone https://github.com/your-username/bidding-website.git
    cd biddingwebsite
+   ```
+2. **Set up a virutal environment(recommended)**
+   ```bash
+   python -m venv env
+   ```
+3. **Activate the virtual environment**
+   ```bash
+   .\env\Scripts\activate #OnWindows
+   source env/bin/activate #onMac_Linux
+   ```
+4. Apply database migrations:
+   ```bash
+   python manage.py makemigrations
+   python mangage.py migrate
+   ```
+
+6. Creat a superuser
+   ```bash
+   python manage.py createsuperuser
+   ```
+8. Run the development server
+   ```bash
+   python manage.py runserver
+   ```
+## Running the Project
+
+Once the development server is running, you can access the application by navigating to http://127.0.0.1:8000/ in your web browser.
+```
+Admin interface: http://127.0.0.1:8000/admin/
+Home page: http://127.0.0.1:8000/
+Register a new user: http://127.0.0.1:8000/accounts/register/
+Login: http://127.0.0.1:8000/accounts/login/
+Profile page: http://127.0.0.1:8000/bidding/profile/
+Create a new auction: http://127.0.0.1:8000/bidding/auction/new/
+```
+   
+
+
